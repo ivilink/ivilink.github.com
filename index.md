@@ -10,7 +10,7 @@ title: iviLink
 ### Documentation
 
 - [General Techology Description](doc/general/iviLINK.General.Description.pdf)
-- [iviLink presentation](presentation.html) ([PDF](iviLINK.pdf))
+- [iviLink presentation](presentation.html) ([PDF](doc/general/iviLINK.pdf))
 
 ### Source documentation
 
