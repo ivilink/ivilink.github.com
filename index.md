@@ -13,5 +13,5 @@ title: What is iviLink?
 - [General Techology Description](doc/general/iviLINK.General.Description.pdf) (PDF)
 - [API documentation](api_doc.html)
 
-More info on the [official website](http://www.ivilink.net/)
+More info on the [official website](http://www.ivilink.net/) and [wiki](https://github.com/Luxoft/iviLink/wiki)
 
