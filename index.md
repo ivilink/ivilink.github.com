@@ -9,13 +9,9 @@ title: What is iviLink?
 
 ### Documentation
 
-- [General Techology Description](doc/general/iviLINK.General.Description.pdf)
 - [iviLink presentation](presentation.html) ([PDF](doc/general/iviLINK.pdf))
+- [General Techology Description](doc/general/iviLINK.General.Description.pdf) (PDF)
+- [API documentation](api_doc.html)
 
-### Source documentation
-
-- [Application library](doc/technical/appLib/html/)
-- [Profile library](doc/technical/profileLib/html/)
-
-[More info](http://www.ivilink.net/)
+More info on the [official website](http://www.ivilink.net/)
 
